@@ -1,0 +1,8 @@
+{
+  "label": "База данных",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Структура таблиц проекта"
+  }
+}
