@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://your-docusaurus-site.example.com/conveyor-docs/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Mon, 09 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Пост]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/first-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/blog/first-blog-post</guid>
+            <link>https://your-docusaurus-site.example.com/conveyor-docs/blog/first-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/conveyor-docs/blog/first-blog-post</guid>
             <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Данная документация посвящена Конвейеру]]></description>
             <content:encoded><![CDATA[<p>Данная документация посвящена Конвейеру</p>]]></content:encoded>
