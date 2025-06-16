@@ -1,0 +1,8 @@
+{
+  "label": "tg-chats-collector",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Загрузчик чатов телеграм"
+  }
+}

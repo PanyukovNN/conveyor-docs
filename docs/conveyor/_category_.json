@@ -1,0 +1,8 @@
+{
+  "label": "content-conveyor",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Конвейер контента"
+  }
+}
